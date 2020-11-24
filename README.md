@@ -6,13 +6,15 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanowskii&layout=compact&theme=buefy&custom_title=Sultanowskii's+Most+Used+Languages&title_color=ff6e96" />
   </a>
   
-  ### Hello there!
+  ### Hello there
   
-  This is my profile  
+  My name is Arthur, I'm from Russia. Currently I learn python, reverse-engineering and some other languages.
+  
+  🚩 I love taking a part in `CTF`s, my favourite categories are `reverse`, `pwn`. I also really love making my own CTF-tasks (for example, you may look at them [here](https://github.com/sultanowskii/CTF-Jacque-Fresco) - there are some low-level tasks for beginers) and organizing local CTF-contests.
+  
+  💻 Most often I create and support some APIs, bots and little applications
+  
+  📭 Contacts: 
+  - [telegram](https://t.me/sultanowskii)
+  - [e-mail](mailto:dsr431@yandex.ru)
 </p>
-
-- ✋ My name is Arthur, I live in Russia, study in LI2
-- 💻 Usually I do something on Python, but I also learn C++ and JavaScrypt
-- 🚩 Take a part in CTFs, really love reverse-category
-- 📱 Enjoy making some little APIs and bots
-- 📭 My contacts: [telegram](https://t.me/sultanowskii) or [e-mail](mailto:dsr431@yandex.ru)
