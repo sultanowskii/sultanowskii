@@ -8,7 +8,7 @@
   
   ### 👋 Hello there
   
-  👨‍💻 My name is Arthur, I'm from Russia. Currently I learn python, some other languages and reverse-engineering.
+  👨‍💻 My name is Arthur, I'm from Russia. Currently I learn Python, C and reverse-engineering.
   
   🚩 I love taking a part in `CTF`s, my favourite categories are `reverse`, `pwn`. I also really love making my own CTF-tasks (for example, you may look at them [here](https://github.com/sultanowskii/CTF-Jacque-Fresco) - there are some low-level tasks for beginers) and organizing local CTF-contests.
   
