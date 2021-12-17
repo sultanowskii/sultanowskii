@@ -14,5 +14,5 @@
   
   💻 I create and support some APIs, bots and little applications
   
-  📭 Contacts: [telegram](https://t.me/sultanowskii), [e-mail](mailto:dsr431@yandex.ru)
+  📭 Contacts: [tg channel](https://t.me/ra_mojave), [e-mail](mailto:dsr431@yandex.ru)
 </p>
