@@ -8,11 +8,11 @@
   
   ### 👋 Hello there
   
-  👨‍💻 My name is Arthur, I'm from Russia. Currently I learn Python, C/C++ and reverse-engineering
+  👨‍💻 My name is Artur, I'm from Russia.
   
-  🚩 I like taking part in CTFs. I also create my own ones (for example, you may look at them [here](https://github.com/li2CTF/li2CTF-2021-spring))
+  ⚙️ I learn Python, C/C++, reverse-engineering and other stuff
   
-  💻 I create and support some APIs, bots and little applications
+  🚩 I like taking part in CTFs. I also conduct some (for example, you may take a look at [this one](https://github.com/li2CTF/li2CTF-2022-winter-public))
   
-  📭 Contacts: [tg channel](https://t.me/ra_mojave), [e-mail](mailto:dsr431@yandex.ru)
+  📭 Contacts: [Telegram](https://t.me/sultanowskii)
 </p>
