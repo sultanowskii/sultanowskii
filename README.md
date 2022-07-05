@@ -12,7 +12,7 @@
   
   ⚙️ I learn Python, C/C++, reverse-engineering and other stuff
   
-  🚩 I like taking part in CTFs. I also conduct some (for example, you may take a look at [this one](https://github.com/li2CTF/li2CTF-2022-winter-public))
+  🚩 I like taking part in CTFs. I also conduct some (for example, you may take a look at [this one](https://github.com/li2CTF/li2CTF-open-2022-winter-public))
   
   📭 Contacts: [Telegram](https://t.me/sultanowskii)
 </p>
