@@ -6,13 +6,13 @@
     <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sultanowskii&layout=compact&theme=buefy&custom_title=sultanowskii's+most+used+languages&title_color=ff6e96&card_width=445&hide=roff&langs_count=6" />
   </a>
   
-  ### 👋 Hello there
+  ### 👋 Hey
 
   👨‍💻 Name is Artur
   
   🏫 ITMO SE student
 
-  ⚙️ Mostly backend, but quite interested in other things. For now in attempt to find what I really enjoy
+  ⚙️ Mostly backend, but quite interested in other things. For now in attempts to find what I really enjoy
 
   🚩 From time to time I take part in CTFs (rev/pwn/forensics). I've also conducted some (for example, [this one](https://github.com/li2CTF/li2CTF-open-2022-winter-public))
 
