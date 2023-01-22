@@ -12,7 +12,7 @@
   
   🏫 ITMO SE student
 
-  ⚙️ Mostly backend, but quite interested in other things. For now in attempts to find what I really enjoy
+  ⚙️ Mostly backend, but quite interested in other things. For now in attempts to find what I enjoy
 
   🚩 From time to time I take part in CTFs (rev/pwn/forensics). I've also conducted some (for example, [this one](https://github.com/li2CTF/li2CTF-open-2022-winter-public))
 
